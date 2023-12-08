@@ -7,13 +7,13 @@ The purpose of this fork is solely to display it on my own GitHub profile.
 Please see the team section in the lines below for those who contributed.
 
 ## Team:
-* Ben Laird
-* David Hollock
-* Colin Choquette
-* Ian Peña
+* [Ben Laird](https://github.com/BL-0115)
+* [David Hollock](https://github.com/dhollock)
+* [Colin Choquette](https://github.com/ColCHoq)
+* [Ian Peña](https://github.com/IanP105)
 * Mina Gachloo
-* Nathan Davis
-* Morgan Glisson
+* [Nathan Davis](https://github.com/NathanD11)
+* [Morgan Glisson](https://github.com/morganglis)
 
 ## Our Stack:
 * Python – Backend
